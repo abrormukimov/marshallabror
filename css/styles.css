@@ -1,0 +1,18 @@
+#welcome-section {
+    height: 100vh;
+}
+
+
+/* Mobile view */
+
+@media screen and (min-width:620px) {}
+
+
+/* tablets and laptop */
+
+@media screen and (min-width:920px) {}
+
+
+/* desktop and laptop */
+
+@media screen and (min-width:1200px) {}
